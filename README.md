@@ -31,7 +31,7 @@ I have also spent almost ten years working in hospitality, on both the operation
 
 ### Tools I work with
 
-Java · Spring Boot · Spring AI · Timefold · TypeScript · React · Node.js · Python · MongoDB · MySQL · Git · Jira · Jenkins · BitBucket
+Java · Spring Boot · Spring AI · Timefold · TypeScript · React · Node.js · Python · MongoDB · MySQL · Git · Jira · Jenkins · Bitbucket
 
 ### Contact
 
